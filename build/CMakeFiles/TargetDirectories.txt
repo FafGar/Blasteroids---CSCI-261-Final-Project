@@ -1,0 +1,5 @@
+C:/CSCI 261 files/finalProject/build/CMakeFiles/finalProject.dir
+C:/CSCI 261 files/finalProject/build/CMakeFiles/package.dir
+C:/CSCI 261 files/finalProject/build/CMakeFiles/package_source.dir
+C:/CSCI 261 files/finalProject/build/CMakeFiles/edit_cache.dir
+C:/CSCI 261 files/finalProject/build/CMakeFiles/rebuild_cache.dir
