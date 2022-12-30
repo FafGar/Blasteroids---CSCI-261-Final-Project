@@ -1,4 +1,4 @@
-set(CMAKE_CXX_COMPILER "C:/TDM-GCC-64/bin/g++.exe")
+set(CMAKE_CXX_COMPILER "C:/TDM-GCC-32/bin/g++.exe")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_VERSION "10.3.0")
@@ -22,11 +22,11 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/TDM-GCC-64/bin/ar.exe")
-set(CMAKE_CXX_COMPILER_AR "C:/TDM-GCC-64/bin/gcc-ar.exe")
-set(CMAKE_RANLIB "C:/TDM-GCC-64/bin/ranlib.exe")
-set(CMAKE_CXX_COMPILER_RANLIB "C:/TDM-GCC-64/bin/gcc-ranlib.exe")
-set(CMAKE_LINKER "C:/TDM-GCC-64/bin/ld.exe")
+set(CMAKE_AR "C:/TDM-GCC-32/bin/ar.exe")
+set(CMAKE_CXX_COMPILER_AR "C:/TDM-GCC-32/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "C:/TDM-GCC-32/bin/ranlib.exe")
+set(CMAKE_CXX_COMPILER_RANLIB "C:/TDM-GCC-32/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/TDM-GCC-32/bin/ld.exe")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)
 set(CMAKE_CXX_COMPILER_LOADED 1)
@@ -51,7 +51,7 @@ set(CMAKE_CXX_LINKER_PREFERENCE 30)
 set(CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES 1)
 
 # Save compiler ABI information.
-set(CMAKE_CXX_SIZEOF_DATA_PTR "8")
+set(CMAKE_CXX_SIZEOF_DATA_PTR "4")
 set(CMAKE_CXX_COMPILER_ABI "")
 set(CMAKE_CXX_BYTE_ORDER "LITTLE_ENDIAN")
 set(CMAKE_CXX_LIBRARY_ARCHITECTURE "")
@@ -77,7 +77,7 @@ endif()
 
 
 
-set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++;C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/x86_64-w64-mingw32;C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++/backward;C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include;C:/TDM-GCC-64/include;C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed;C:/TDM-GCC-64/x86_64-w64-mingw32/include")
-set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/libstdc++.a;mingw32;gcc;pthread;gcc;kernel32;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;pthread;gcc;kernel32;moldname;mingwex;kernel32")
-set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0;C:/TDM-GCC-64/lib/gcc;C:/TDM-GCC-64/x86_64-w64-mingw32/lib;C:/TDM-GCC-64/lib")
+set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0/include/c++;C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0/include/c++/mingw32;C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0/include/c++/backward;C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0/include;C:/TDM-GCC-32/include;C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0/include-fixed")
+set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0/libstdc++.a;mingw32;gcc;pthread;gcc;kernel32;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;pthread;gcc;kernel32;moldname;mingwex;kernel32")
+set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "C:/TDM-GCC-32/lib/gcc/mingw32/10.3.0;C:/TDM-GCC-32/lib/gcc;C:/TDM-GCC-32/mingw32/lib;C:/TDM-GCC-32/lib")
 set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

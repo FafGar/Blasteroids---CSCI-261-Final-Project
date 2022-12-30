@@ -74,90 +74,90 @@ CMakeFiles/finalProject.dir/main.cpp.obj: CMakeFiles/finalProject.dir/includes_C
 CMakeFiles/finalProject.dir/main.cpp.obj: C:/CSCI\ 261\ files/finalProject/main.cpp
 CMakeFiles/finalProject.dir/main.cpp.obj: CMakeFiles/finalProject.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/finalProject.dir/main.cpp.obj"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/main.cpp.obj -MF CMakeFiles/finalProject.dir/main.cpp.obj.d -o CMakeFiles/finalProject.dir/main.cpp.obj -c "C:/CSCI 261 files/finalProject/main.cpp"
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/main.cpp.obj -MF CMakeFiles/finalProject.dir/main.cpp.obj.d -o CMakeFiles/finalProject.dir/main.cpp.obj -c "C:/CSCI 261 files/finalProject/main.cpp"
 
 CMakeFiles/finalProject.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/finalProject.dir/main.cpp.i"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/main.cpp" > CMakeFiles/finalProject.dir/main.cpp.i
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/main.cpp" > CMakeFiles/finalProject.dir/main.cpp.i
 
 CMakeFiles/finalProject.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/finalProject.dir/main.cpp.s"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/main.cpp" -o CMakeFiles/finalProject.dir/main.cpp.s
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/main.cpp" -o CMakeFiles/finalProject.dir/main.cpp.s
 
 CMakeFiles/finalProject.dir/Player.cpp.obj: CMakeFiles/finalProject.dir/flags.make
 CMakeFiles/finalProject.dir/Player.cpp.obj: CMakeFiles/finalProject.dir/includes_CXX.rsp
 CMakeFiles/finalProject.dir/Player.cpp.obj: C:/CSCI\ 261\ files/finalProject/Player.cpp
 CMakeFiles/finalProject.dir/Player.cpp.obj: CMakeFiles/finalProject.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/finalProject.dir/Player.cpp.obj"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Player.cpp.obj -MF CMakeFiles/finalProject.dir/Player.cpp.obj.d -o CMakeFiles/finalProject.dir/Player.cpp.obj -c "C:/CSCI 261 files/finalProject/Player.cpp"
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Player.cpp.obj -MF CMakeFiles/finalProject.dir/Player.cpp.obj.d -o CMakeFiles/finalProject.dir/Player.cpp.obj -c "C:/CSCI 261 files/finalProject/Player.cpp"
 
 CMakeFiles/finalProject.dir/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/finalProject.dir/Player.cpp.i"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Player.cpp" > CMakeFiles/finalProject.dir/Player.cpp.i
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Player.cpp" > CMakeFiles/finalProject.dir/Player.cpp.i
 
 CMakeFiles/finalProject.dir/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/finalProject.dir/Player.cpp.s"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Player.cpp" -o CMakeFiles/finalProject.dir/Player.cpp.s
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Player.cpp" -o CMakeFiles/finalProject.dir/Player.cpp.s
 
 CMakeFiles/finalProject.dir/Laser.cpp.obj: CMakeFiles/finalProject.dir/flags.make
 CMakeFiles/finalProject.dir/Laser.cpp.obj: CMakeFiles/finalProject.dir/includes_CXX.rsp
 CMakeFiles/finalProject.dir/Laser.cpp.obj: C:/CSCI\ 261\ files/finalProject/Laser.cpp
 CMakeFiles/finalProject.dir/Laser.cpp.obj: CMakeFiles/finalProject.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/finalProject.dir/Laser.cpp.obj"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Laser.cpp.obj -MF CMakeFiles/finalProject.dir/Laser.cpp.obj.d -o CMakeFiles/finalProject.dir/Laser.cpp.obj -c "C:/CSCI 261 files/finalProject/Laser.cpp"
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Laser.cpp.obj -MF CMakeFiles/finalProject.dir/Laser.cpp.obj.d -o CMakeFiles/finalProject.dir/Laser.cpp.obj -c "C:/CSCI 261 files/finalProject/Laser.cpp"
 
 CMakeFiles/finalProject.dir/Laser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/finalProject.dir/Laser.cpp.i"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Laser.cpp" > CMakeFiles/finalProject.dir/Laser.cpp.i
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Laser.cpp" > CMakeFiles/finalProject.dir/Laser.cpp.i
 
 CMakeFiles/finalProject.dir/Laser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/finalProject.dir/Laser.cpp.s"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Laser.cpp" -o CMakeFiles/finalProject.dir/Laser.cpp.s
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Laser.cpp" -o CMakeFiles/finalProject.dir/Laser.cpp.s
 
 CMakeFiles/finalProject.dir/Asteroid.cpp.obj: CMakeFiles/finalProject.dir/flags.make
 CMakeFiles/finalProject.dir/Asteroid.cpp.obj: CMakeFiles/finalProject.dir/includes_CXX.rsp
 CMakeFiles/finalProject.dir/Asteroid.cpp.obj: C:/CSCI\ 261\ files/finalProject/Asteroid.cpp
 CMakeFiles/finalProject.dir/Asteroid.cpp.obj: CMakeFiles/finalProject.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/finalProject.dir/Asteroid.cpp.obj"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Asteroid.cpp.obj -MF CMakeFiles/finalProject.dir/Asteroid.cpp.obj.d -o CMakeFiles/finalProject.dir/Asteroid.cpp.obj -c "C:/CSCI 261 files/finalProject/Asteroid.cpp"
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Asteroid.cpp.obj -MF CMakeFiles/finalProject.dir/Asteroid.cpp.obj.d -o CMakeFiles/finalProject.dir/Asteroid.cpp.obj -c "C:/CSCI 261 files/finalProject/Asteroid.cpp"
 
 CMakeFiles/finalProject.dir/Asteroid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/finalProject.dir/Asteroid.cpp.i"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Asteroid.cpp" > CMakeFiles/finalProject.dir/Asteroid.cpp.i
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Asteroid.cpp" > CMakeFiles/finalProject.dir/Asteroid.cpp.i
 
 CMakeFiles/finalProject.dir/Asteroid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/finalProject.dir/Asteroid.cpp.s"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Asteroid.cpp" -o CMakeFiles/finalProject.dir/Asteroid.cpp.s
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Asteroid.cpp" -o CMakeFiles/finalProject.dir/Asteroid.cpp.s
 
 CMakeFiles/finalProject.dir/Funcs.cpp.obj: CMakeFiles/finalProject.dir/flags.make
 CMakeFiles/finalProject.dir/Funcs.cpp.obj: CMakeFiles/finalProject.dir/includes_CXX.rsp
 CMakeFiles/finalProject.dir/Funcs.cpp.obj: C:/CSCI\ 261\ files/finalProject/Funcs.cpp
 CMakeFiles/finalProject.dir/Funcs.cpp.obj: CMakeFiles/finalProject.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/finalProject.dir/Funcs.cpp.obj"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Funcs.cpp.obj -MF CMakeFiles/finalProject.dir/Funcs.cpp.obj.d -o CMakeFiles/finalProject.dir/Funcs.cpp.obj -c "C:/CSCI 261 files/finalProject/Funcs.cpp"
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Funcs.cpp.obj -MF CMakeFiles/finalProject.dir/Funcs.cpp.obj.d -o CMakeFiles/finalProject.dir/Funcs.cpp.obj -c "C:/CSCI 261 files/finalProject/Funcs.cpp"
 
 CMakeFiles/finalProject.dir/Funcs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/finalProject.dir/Funcs.cpp.i"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Funcs.cpp" > CMakeFiles/finalProject.dir/Funcs.cpp.i
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Funcs.cpp" > CMakeFiles/finalProject.dir/Funcs.cpp.i
 
 CMakeFiles/finalProject.dir/Funcs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/finalProject.dir/Funcs.cpp.s"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Funcs.cpp" -o CMakeFiles/finalProject.dir/Funcs.cpp.s
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Funcs.cpp" -o CMakeFiles/finalProject.dir/Funcs.cpp.s
 
 CMakeFiles/finalProject.dir/Alien.cpp.obj: CMakeFiles/finalProject.dir/flags.make
 CMakeFiles/finalProject.dir/Alien.cpp.obj: CMakeFiles/finalProject.dir/includes_CXX.rsp
 CMakeFiles/finalProject.dir/Alien.cpp.obj: C:/CSCI\ 261\ files/finalProject/Alien.cpp
 CMakeFiles/finalProject.dir/Alien.cpp.obj: CMakeFiles/finalProject.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/finalProject.dir/Alien.cpp.obj"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Alien.cpp.obj -MF CMakeFiles/finalProject.dir/Alien.cpp.obj.d -o CMakeFiles/finalProject.dir/Alien.cpp.obj -c "C:/CSCI 261 files/finalProject/Alien.cpp"
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/finalProject.dir/Alien.cpp.obj -MF CMakeFiles/finalProject.dir/Alien.cpp.obj.d -o CMakeFiles/finalProject.dir/Alien.cpp.obj -c "C:/CSCI 261 files/finalProject/Alien.cpp"
 
 CMakeFiles/finalProject.dir/Alien.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/finalProject.dir/Alien.cpp.i"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Alien.cpp" > CMakeFiles/finalProject.dir/Alien.cpp.i
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/CSCI 261 files/finalProject/Alien.cpp" > CMakeFiles/finalProject.dir/Alien.cpp.i
 
 CMakeFiles/finalProject.dir/Alien.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/finalProject.dir/Alien.cpp.s"
-	C:/TDM-GCC-64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Alien.cpp" -o CMakeFiles/finalProject.dir/Alien.cpp.s
+	C:/TDM-GCC-32/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/CSCI 261 files/finalProject/Alien.cpp" -o CMakeFiles/finalProject.dir/Alien.cpp.s
 
 # Object files for target finalProject
 finalProject_OBJECTS = \
@@ -182,8 +182,8 @@ finalProject.exe: CMakeFiles/finalProject.dir/linkLibs.rsp
 finalProject.exe: CMakeFiles/finalProject.dir/objects1
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:/CSCI 261 files/finalProject/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable finalProject.exe"
 	"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/finalProject.dir/objects.a
-	C:/TDM-GCC-64/bin/ar.exe qc CMakeFiles/finalProject.dir/objects.a @CMakeFiles/finalProject.dir/objects1
-	C:/TDM-GCC-64/bin/g++.exe -g -Wl,--whole-archive CMakeFiles/finalProject.dir/objects.a -Wl,--no-whole-archive -o finalProject.exe -Wl,--out-implib,libfinalProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/finalProject.dir/linkLibs.rsp
+	C:/TDM-GCC-32/bin/ar.exe qc CMakeFiles/finalProject.dir/objects.a @CMakeFiles/finalProject.dir/objects1
+	C:/TDM-GCC-32/bin/g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles/finalProject.dir/objects.a -Wl,--no-whole-archive -o finalProject.exe -Wl,--out-implib,libfinalProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/finalProject.dir/linkLibs.rsp
 
 # Rule to build all files generated by this target.
 CMakeFiles/finalProject.dir/build: finalProject.exe
