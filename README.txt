@@ -1,15 +1,13 @@
 Additions for GitHub upload:
 As may be apparent from the structure of this project and the rest of this README, this was a student project. It has been
 uploaded to GitHub as a demonstration of my work with programming and a peak into my interests. All files save this one and 
-CMakeLists.txt have not been modified since turning them in as an assignment. This is partially due to the time I have availible
-being limited and the sake of preservation,  but mostly because after an embarassing number of hours, I cannot figure out how 
-I got this to work in the first place. Therefore, I have to hope that whoever chooses to look at this next is satisfied with 
-the logic and size of the project as a demonstration of experience. 
+CMakeLists.txt have been modified only lightly if at all since turning them in as an assignment.
 
 People can use this for whatever they want, except in situations where it violates the Colorado School of Mines honor code, or
 that of their own institution. If you do, Blaster (the burro) will find you and do what he does best.
 
-
+The CMakeLists file will obviously have to be modified to use paths on a given machine for compilation, and the project must be
+compiled using a 32 bit compiler, but otherwise everythng should work out of the box.
 
 
 

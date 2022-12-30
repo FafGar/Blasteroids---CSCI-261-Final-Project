@@ -100,7 +100,7 @@ int main() {
 
     Text playAgain("Press enter to play again",font, 50); // start again prompt on game over screen
     centerOrigin(playAgain);
-    playAgain.setPosition(WIDTH/2.f, scores.getPosition().y+scores.getLocalBounds().height+100);
+    playAgain.setPosition(WIDTH/2.f, scores.getPosition().y+scores.getLocalBounds().height+200);
 
 
     while (window.isOpen()){// begin display loop.
@@ -289,7 +289,5 @@ int main() {
 
 
     }
-
-
     return 0;
 }
