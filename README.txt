@@ -3,11 +3,13 @@ As may be apparent from the structure of this project and the rest of this READM
 uploaded to GitHub as a demonstration of my work with programming and a peak into my interests. All files save this one and 
 CMakeLists.txt have been modified only lightly if at all since turning them in as an assignment.
 
-People can use this for whatever they want, except in situations where it violates the Colorado School of Mines honor code, or
-that of their own institution. If you do, Blaster (the burro) will find you and do what he does best.
+People can use this for whatever they want, except in situations where it violates the Colorado School of Mines honor code,
+orthat of their own institution. If you do, Blaster (the burro) will find you and do what he does best.
 
-The CMakeLists file will obviously have to be modified to use paths on a given machine for compilation, and the project must be
-compiled using a 32 bit compiler, but otherwise everythng should work out of the box.
+Considerations for building:
+- CMakeLists.txt will have to be modified for local paths
+- Must be compiled using a 32 bit GCC compiler for the SFML to work
+- Files in the assetsForBuiltProject folder should be copied into the generated build folder
 
 
 
